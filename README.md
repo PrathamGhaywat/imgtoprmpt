@@ -1,16 +1,6 @@
----
-title: Image To Prompt
-emoji: 🔥
-colorFrom: red
-colorTo: pink
-sdk: gradio
-sdk_version: 5.42.0
-app_file: app.py
-pinned: false
-license: mit
-short_description: Input an Image and receive a prompt for it
----
+# Image - to - Prompt
 
-# Image-to-prompt
+This is a gradio application that allows yoyu to input an recieve prompts that will help you generate similiar photos, yet with a new unique flavor. 
 
-A simple gradio app that allows you to upload an image and convert it into an prompt!
+## Idea?!
+People would think that this idea is stupid, but there are many usecases for this. For example if you know the youtuber ray william johnson, he often uses AI generated images. Now think what happens if you want to generate similar images with minor changes? Obviously you have the assets u use for the video. But who saves the prompts for those? That is why I built this project. Not only is it for creators like Ray but also helps generate images for class presentations. 
